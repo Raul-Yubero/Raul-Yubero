@@ -1,2 +1,6 @@
-<div align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:071426,50:0A66C2,100:00E5FF&text=Raúl%20Yubero&fontColor=ffffff&fontSize=45&fontAlignY=38&desc=Técnico%20de%20Sistemas%20y%20Redes%20|%20Ciberseguridad&descAlignY=58&descSize=18&animation=fadeIn"/>
+<div align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:071426,50:0A66C2,100:00E5FF&text=Raul%20Yubero&fontColor=FFFFFF&fontSize=45&fontAlignY=38&desc=IT%20Systems%20and%20Network%20Technician%20%7C%20Cybersecurity%20%7C%20Software%20Developer&descAlignY=60&descSize=18"
+    width="100%"
+  />
 </div>
